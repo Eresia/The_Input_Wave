@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.14",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Input_Waves",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
